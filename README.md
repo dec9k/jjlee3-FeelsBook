@@ -14,3 +14,9 @@ joshua2ua
 
 Link:
 https://github.com/joshua2ua/lonelyTwitter
+
+Last Edited Date:
+2015.09.14
+
+Retrieved Date:
+2018.09.30
