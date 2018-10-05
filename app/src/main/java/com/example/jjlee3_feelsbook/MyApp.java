@@ -22,7 +22,7 @@ import java.util.Comparator;
 
 /**
  * MyApp class, provides the Save, Load, and where the Data properties are stored on
- * Save and Load File codes from the Lab
+ * Save and Load File codes from the Lab check README file for citations
  *
  */
 public class MyApp extends Application {
